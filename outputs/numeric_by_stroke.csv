@@ -1,0 +1,5 @@
+﻿,age,age,age,avg_glucose_level,avg_glucose_level,avg_glucose_level,bmi,bmi,bmi
+,mean,median,std,mean,median,std,mean,median,std
+stroke,,,,,,,,,
+0,42.14,43.0,22.35,104.57,91.45,43.6,28.41,28.0,6.83
+1,67.82,71.0,12.67,132.18,105.04,61.77,30.19,29.45,5.66

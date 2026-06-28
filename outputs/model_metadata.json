@@ -1,0 +1,24 @@
+{
+  "main_model": "随机森林",
+  "threshold": 0.405,
+  "train_size": 3486,
+  "validation_size": 747,
+  "test_size": 748,
+  "positive_rate": 0.049789198956032926,
+  "feature_columns": [
+    "age",
+    "avg_glucose_level",
+    "bmi",
+    "hypertension",
+    "heart_disease",
+    "gender",
+    "ever_married",
+    "work_type",
+    "Residence_type",
+    "smoking_status"
+  ],
+  "random_state": 42,
+  "sklearn_version": "1.9.0",
+  "pandas_version": "2.3.3",
+  "numpy_version": "2.4.3"
+}

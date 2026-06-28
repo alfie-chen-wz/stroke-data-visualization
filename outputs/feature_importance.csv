@@ -1,0 +1,20 @@
+﻿特征,重要性,特征中文
+age,0.45267057947215655,年龄
+avg_glucose_level,0.1499624374763236,平均血糖
+bmi,0.11885317431911889,BMI
+hypertension,0.04075753683082897,高血压
+ever_married_No,0.03411917042228923,婚姻_未婚
+ever_married_Yes,0.03255595204897409,婚姻_已婚
+heart_disease,0.022500658744131517,心脏病
+work_type_Self-employed,0.02056230453556873,工作_个体
+work_type_children,0.016836390662863916,工作_儿童
+smoking_status_never smoked,0.013265063493184454,吸烟_从不
+work_type_Private,0.012324873470348404,工作_私营
+gender_Female,0.011875761975691729,性别_女性
+smoking_status_smokes,0.01170296540060933,吸烟_目前
+Residence_type_Rural,0.011638385016051061,居住_农村
+gender_Male,0.011309219537146326,性别_男性
+Residence_type_Urban,0.011127211982449873,居住_城市
+smoking_status_formerly smoked,0.010354840486778741,吸烟_曾经
+smoking_status_Unknown,0.009949851110687772,吸烟_未知
+work_type_Govt_job,0.0076336230147967905,工作_政府
